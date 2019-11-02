@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "module": "esnext",
+    "target": "es6",
+    "allowJs": true
+  },
+  "incude": ["src"],
+  "exclude": ["dist", "node_modules"]
+}
